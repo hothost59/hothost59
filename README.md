@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/160795881?v=4"  />
+</div>
 
-<!--
-**hothost59/hothost59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">hi im hothost59 or hothost</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="center">info</h2>
+<p align="center"><br>-html chat thingy -balatro webports with mods <br>-learning new languages: c# & c++</p>
+
+
+###
