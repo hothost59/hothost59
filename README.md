@@ -9,7 +9,7 @@
 ###
 
 <h2 align="center">info</h2>
-<p align="center"><br>-html chat thingy -balatro webports with mods <br>-learning new languages: c# & c++</p>
+<p align="center"><b>working on: </b><br>-html chat thingy <br>-balatro webports with mods <br><b>learning new languages:</b> <br>-c# & c++</p>
 
 
 ###
